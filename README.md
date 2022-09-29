@@ -8,3 +8,12 @@
 
 ## Project Title
 > Hello World sample
+
+### Description
+This is a sample repository for practice. So far I am enjoying GitHub.
+
+#### Additional Documentation
+No further documentation needed, here is ~strikethrough~
+
+##### Versioning
+*There have been no major changes made to README.md*
