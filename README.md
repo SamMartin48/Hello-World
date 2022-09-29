@@ -7,7 +7,7 @@
 6. Versioning 
 
 ## Project Title
-> Hello World sample 
+> **Hello World sample** 
 
 ### Description
 This is a sample repository for practice. So far I am enjoying GitHub.[^1]
