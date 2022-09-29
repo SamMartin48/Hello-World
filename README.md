@@ -7,4 +7,4 @@
 6. Versioning 
 
 ## Project Title
-~Hello~World~sample~
+~HelloWorldsample~
