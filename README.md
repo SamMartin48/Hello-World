@@ -7,4 +7,4 @@
 6. Versioning 
 
 ## Project Title
-~HelloWorldsample~
+> Hello World sample
