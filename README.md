@@ -10,7 +10,7 @@
 > Hello World sample 
 
 ### Description
-==This is a sample repository for practice. So far I am enjoying GitHub==.
+^This is a sample repository for practice. So far I am enjoying GitHub.^
 
 #### Additional Documentation
 No further documentation needed, here is ~strikethrough~
